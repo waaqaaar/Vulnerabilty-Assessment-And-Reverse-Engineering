@@ -1,8 +1,8 @@
-                                               `**Vulnerability Assessment and Reverse Engineering Lab**
+                                               `**Vulnerability Assessment and Reverse Engineering Lab Guides**
 
 **Overview**
 
-This lab is designed to provide hands-on experience in identifying, analyzing, and exploiting security vulnerabilities in software and web applications. It covers vulnerability assessment methodologies, reverse engineering techniques, and practical exploitation using ethical hacking tools. The objective is to build a strong foundation in penetration testing, malware analysis, and secure coding practices.
+This course is designed to provide hands-on experience in identifying, analyzing, and exploiting security vulnerabilities in software and web applications. It covers vulnerability assessment methodologies, reverse engineering techniques, and practical exploitation using ethical hacking tools. The objective is to build a strong foundation in penetration testing, malware analysis, and secure coding practices.
 
 Prerequisites
 
